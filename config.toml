@@ -33,6 +33,11 @@ mainSections = ["post"]
   title = "Twitter"
   url = "https://twitter.com/nmsaam"
 
+  [[params.socialIcons]]
+  icon = "fa-facebook"
+  title = "Facebook"
+  url = "https://www.facebook.com/nmsaam/"
+
 [taxonomies]
   series = "series"
   category = "categories"

@@ -16,7 +16,7 @@ hours of graduate level education. This includes 900 hours of
 supervised clinical practice. In addition, each acupuncturist in New
 Mexico must pass a national certification exam from the [National
 Certification Commission for Acupuncture and Oriental
-Medicine(NCCAOM)](https://www.nccaom.org/). 
+Medicine (NCCAOM)](https://www.nccaom.org/). 
 
 <img style="width:100%"
 src="/images/brooke-lark-kXQ3J7_2fpc-unsplash.jpg" />

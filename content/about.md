@@ -8,11 +8,11 @@ author = "NMSAAM"
 
 <img style="width:100%" src="/images/DSC_0023.JPG" />
 
-**Acupuncture** can be defined as: *The surgical procedure of
+**Acupuncture** can be defined as: *The medical procedure of
 inserting solid filiform needles into the body in a therapeutic
 context.* Acupuncture needles are single use, and are sterilized by
 the manufacturer prior to being distributed to acupuncturists. The
-acupuncture needle, also called a *filiform needle* is a medical
+acupuncture needle, also called a *filiform needle*, is a medical
 device regulated by the Food and Drug Administration (FDA) in the
 United States. 
 
@@ -45,6 +45,12 @@ conditions:
 
 Learn more at the [Acupuncture Evidence
 Project](https://www.acupuncture.org.au/resources/publications/the-acupuncture-evidence-project-a-comparative-literature-review-2017/) 
+
+Acupuncturists practice a complete system of *primary care* that is
+capable of addressing many other conditions. Because of the integrated
+nature of the system that acupuncturists use, they are capable of
+addressing *any* health concern of modern patients; including
+appropriate and timely referrals when and where appropriate. 
 
 ## NMSAAM
 
