@@ -1,0 +1,66 @@
+baseurl = "https://newmexicoacupuncture.org/"
+languageCode = "en"
+title = "Acupuncture"
+theme = "soho"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
+paginate = 3
+
+[params]
+title = "New Mexico Acupuncture"
+description = "In New Mexico"
+# gravatar = "soho@example.com"
+images = ["images/profile.png"]
+profilePicture = "images/profile.png"
+copyright = "NMSAAM"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = false
+mainSections = ["post"]
+
+## Set custom theme color.
+# themeColor = "#fc2803"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://github.com/nmsaamgov"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/nmsaam"
+
+[taxonomies]
+  series = "series"
+  category = "categories"
+  tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 10
+  url = "/about/"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
