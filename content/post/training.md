@@ -21,8 +21,8 @@ Medicine (NCCAOM)](https://www.nccaom.org/).
 <img style="width:100%"
 src="/images/brooke-lark-kXQ3J7_2fpc-unsplash.jpg" />
 
-The education also includes over 400 hours of modern alopathic, or
-bio-medicine. This allows **acupuncturists** to provide true *primary
+The education also includes over 400 hours of modern allopathic, or
+biomedicine. This allows **acupuncturists** to provide true *primary
 care* by integrating modern science and traditional wisdom. In
 addition to acupuncture, acupuncturists often prescribe herbal
 formulas according to *Traditional Chinese Medicine* that have been
